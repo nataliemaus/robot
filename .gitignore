@@ -1,0 +1,9 @@
+wandb/
+wandb/*
+__pycache__/
+__pycache__/*
+wandb/
+wandb/*
+*.ipynb
+*.prof
+commands.txt
